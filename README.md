@@ -1,7 +1,3 @@
-Here’s a comprehensive GitHub repository description for your project based on `main2.py` and the associated setup file:
-
----
-
 ## 📸 SmartAttend: Facial Recognition-Based Attendance System
 
 SmartAttend is an intelligent, desktop-based attendance system using facial recognition. Designed for educational institutions, it enables teachers to manage classes, enroll students, gather facial image samples, train a classifier, and mark attendance automatically — all through a sleek and user-friendly GUI built with `customtkinter`.
@@ -50,8 +46,4 @@ python main2.py
 * Requires webcam access.
 * A pre-trained Caffe model (`architecture.prototxt` and `weights.caffemodel`) should be placed in the `SmartAttend/detection_model` directory under the user’s home path.
 * Designed for Windows/Linux desktops only.
-
----
-
-Let me know if you want a `README.md` file generated or additional sections like setup screenshots, contribution guide, or license!
 
